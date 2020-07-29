@@ -10,3 +10,8 @@ This repository contains:
   b. inOrder and preOrder traversal methods\
   c. a function which computes the lowest common ancestor of given two nodes\
   d. a function which flattens given binary search in its preOrder traverse sequence
+3. A non binary tree (specifically, a parent pointer tree) implementation using Node which can have unrestricted number of children. This project consists of:\
+  a. basic insertion / deletion methods\
+  b. merging trees with weighted union method
+  c. solving "island count problem" using a parent pointer tree
+  
